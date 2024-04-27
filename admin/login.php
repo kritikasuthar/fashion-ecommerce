@@ -1,5 +1,5 @@
 <?php
-
+required('connection.inc.php');
 ?>
 
 <!doctype html>
